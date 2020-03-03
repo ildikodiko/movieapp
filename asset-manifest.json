@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/movieapp/static/js/main.90daccbb.chunk.js",
+    "main.js.map": "/movieapp/static/js/main.90daccbb.chunk.js.map",
+    "runtime-main.js": "/movieapp/static/js/runtime-main.81ad9fd9.js",
+    "runtime-main.js.map": "/movieapp/static/js/runtime-main.81ad9fd9.js.map",
+    "static/js/2.1533d5ac.chunk.js": "/movieapp/static/js/2.1533d5ac.chunk.js",
+    "static/js/2.1533d5ac.chunk.js.map": "/movieapp/static/js/2.1533d5ac.chunk.js.map",
+    "index.html": "/movieapp/index.html",
+    "precache-manifest.e5e18b7b5e4f4f7c30df539755aac885.js": "/movieapp/precache-manifest.e5e18b7b5e4f4f7c30df539755aac885.js",
+    "service-worker.js": "/movieapp/service-worker.js",
+    "static/js/2.1533d5ac.chunk.js.LICENSE.txt": "/movieapp/static/js/2.1533d5ac.chunk.js.LICENSE.txt",
+    "static/media/no_image.jpg": "/movieapp/static/media/no_image.31f5bb1d.jpg",
+    "static/media/reactMovie_logo.png": "/movieapp/static/media/reactMovie_logo.08494abf.png",
+    "static/media/tmdb_logo.svg": "/movieapp/static/media/tmdb_logo.30cd724b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81ad9fd9.js",
+    "static/js/2.1533d5ac.chunk.js",
+    "static/js/main.90daccbb.chunk.js"
+  ]
+}
